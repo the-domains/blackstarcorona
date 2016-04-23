@@ -1,7 +1,7 @@
 name: BlackStarCorona
 favicon: null
-layout_spectrum: 0.74966
-typography_spectrum: 0.76653
+layout_spectrum: 0.47432
+typography_spectrum: 1
 title: BlackStarCorona
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5
+    - '#000000'
+    - '#3f3f3f'
+    - '#ffffff'
+    - '#a1a1a1'
+    - '#dadada'
+  brandStrength: 1
   lightness: 0
-  saturation: 0.1875
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
